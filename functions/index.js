@@ -1,4 +1,4 @@
-const doh = 'https://security.cloudflare-dns.com/dns-query'
+const doh = 'https://freedns.controld.com/p2'
 const dohjson = 'https://security.cloudflare-dns.com/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
